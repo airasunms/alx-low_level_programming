@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints alphabets in lowercase
+ * print_alphabet - prints lowercase alphabets
  *
  * because of void in the prototype
  * there is no need for return 0 in the function
